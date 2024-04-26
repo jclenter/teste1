@@ -23,7 +23,7 @@ public class Cliente {
     private String nome;
     private String telefone;
     private String cpf;
-    private Cupom cupomDesconto; // Relacionamento alterado para objeto Cupom
+    private Cupom cupomDesconto; 
 
     public Cupom consultarCupom(String codigoCupom) {
         return null;
