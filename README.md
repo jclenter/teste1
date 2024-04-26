@@ -1,5 +1,10 @@
 # teste1
 //Esquema relacionado a vendas de uma sapataria.
+
+
+
+
+
 import java.util;
 import java.util.ArrayList;
 import java.util.Date;
